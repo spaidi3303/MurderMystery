@@ -1,0 +1,4 @@
+name: MurderMysteryLwm
+version: '${project.version}'
+main: sammylwm.MurderMysteryLwm
+api-version: '1.20'
